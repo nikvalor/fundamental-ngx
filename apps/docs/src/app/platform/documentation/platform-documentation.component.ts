@@ -63,7 +63,7 @@ export class PlatformDocumentationComponent extends DocumentationBaseComponent {
                 content: this.components
             },
             {
-                header: 'layouts',
+                header: 'Layouts',
                 content: this.layouts
             },
             {
